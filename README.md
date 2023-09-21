@@ -1,5 +1,5 @@
 # Computer Network Theorem and Implementation
-# 112-1 機率導論
+# 112-1 電腦網絡原理與實作
 # 目錄
 + [簡介](https://github.com/yuancc12/Theory-of-Probability/blob/main/README.md#%E7%B0%A1%E4%BB%8B)
 + [自我介紹](https://github.com/yuancc12/Theory-of-Probability/blob/main/README.md#%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9)
