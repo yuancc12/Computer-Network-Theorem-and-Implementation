@@ -1,18 +1,17 @@
-# Theory-of-Probability
+# Computer Network Theorem and Implementation
 # 112-1 機率導論
 # 目錄
 + [簡介](https://github.com/yuancc12/Theory-of-Probability/blob/main/README.md#%E7%B0%A1%E4%BB%8B)
 + [自我介紹](https://github.com/yuancc12/Theory-of-Probability/blob/main/README.md#%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9)
-+ [非同步課程影片](https://github.com/yuancc12/Theory-of-Probability/blob/main/README.md#%E7%B7%B4%E7%BF%92%E5%B0%88%E5%8D%80)
 + [電子教材課本](https://github.com/yuancc12/Theory-of-Probability/blob/main/README.md#%E9%9B%BB%E5%AD%90%E6%95%99%E6%9D%90%E8%AA%B2%E6%9C%AC)
 + [課堂PPT](https://github.com/yuancc12/Theory-of-Probability/blob/main/README.md#%E8%AA%B2%E5%A0%82ppt)
 
 # 簡介
-**授課教師:李良一教授**
+**授課教師:吳姈蓉教授**
 
-**上課時間：星期二 15.30-18.20**
+**上課時間：星期五 16.30-19.30**
 
-**上課地點：誠205**
+**上課地點：TA509**
 ***
 # 自我介紹
 **姓名**：[孫源智](https://yuancc12.github.io/web/mypages/)\
@@ -25,10 +24,8 @@
 **E-mail**：ydsoon02@gmail.com\
 **相關技能**：Python，WordPress(UI),Voxedit，Node.js,Java，Arduino，C++
 ***
-# 非同步課程影片
-+ [第一週](http://www.21cs.tw/Nurse/student/studentVideoWatch.xhtml?homeworkId=17157)
 # 電子教材課本
 + [電子課本]()
 # 課堂PPT
-+ [第一週](http://www.21cs.tw/ckeditor/upload/all/file1693888868136.pdf)
++ [第一週]([https://drive.google.com/file/d/1jJ-yrU1RmrZ0iSyHC-B38zghaWf3C_yr/view)
 + [第二週]()
