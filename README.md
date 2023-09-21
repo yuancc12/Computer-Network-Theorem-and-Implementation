@@ -27,5 +27,5 @@
 # 電子教材課本
 + [電子課本]()
 # 課堂PPT
-+ [第一週](https://drive.google.com/file/d/1jJ-yrU1RmrZ0iSyHC-B38zghaWf3C_yr/view)
-+ [第二週]()
++ [第一週]()
++ [第二週](https://drive.google.com/file/d/1jJ-yrU1RmrZ0iSyHC-B38zghaWf3C_yr/view)
