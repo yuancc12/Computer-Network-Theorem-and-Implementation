@@ -25,7 +25,7 @@
 **相關技能**：Python，WordPress(UI),Voxedit，Node.js,Java，Arduino，C++
 ***
 # 電子教材課本
-+ [電子課本]()
++ [電子課本](https://drive.google.com/file/d/1ghNGPrrdNb8GRoOaZRWqiJFNl5OVMEbl/view?usp=sharing)
 # 課堂PPT
 + [第一週](https://drive.google.com/file/d/1jJ-yrU1RmrZ0iSyHC-B38zghaWf3C_yr/view)
 + [第二週](https://drive.google.com/file/d/1kyqko8MMrAQKdenwb58AlVT3MO1R2fYI/view)
