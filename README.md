@@ -4,8 +4,8 @@
 + [簡介](https://github.com/yuancc12/Theory-of-Probability/blob/main/README.md#%E7%B0%A1%E4%BB%8B)
 + [自我介紹](https://github.com/yuancc12/Theory-of-Probability/blob/main/README.md#%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9)
 + [電子教材課本](https://github.com/yuancc12/Theory-of-Probability/blob/main/README.md#%E9%9B%BB%E5%AD%90%E6%95%99%E6%9D%90%E8%AA%B2%E6%9C%AC)
-+ [課堂PPT](https://github.com/yuancc12/Theory-of-Probability/blob/main/README.md#%E8%AA%B2%E5%A0%82ppt)
-
++ [課堂PPT(教师版)](https://github.com/yuancc12/Theory-of-Probability/blob/main/README.md#%E8%AA%B2%E5%A0%82ppt)
++ [課堂PPT(學生版)]()
 # 簡介
 **授課教師:吳姈蓉教授**
 
@@ -26,7 +26,9 @@
 ***
 # 電子教材課本
 + [電子課本](https://drive.google.com/file/d/1ghNGPrrdNb8GRoOaZRWqiJFNl5OVMEbl/view?usp=sharing)
-# 課堂PPT
+# 課堂PPT(教師版)
 + [第一週](https://drive.google.com/file/d/1jJ-yrU1RmrZ0iSyHC-B38zghaWf3C_yr/view)
 + [第二週](https://drive.google.com/file/d/1kyqko8MMrAQKdenwb58AlVT3MO1R2fYI/view)
 + [第三週](https://drive.google.com/file/d/1kyqko8MMrAQKdenwb58AlVT3MO1R2fYI/view)
+# 課堂PPT(學生版)
++[第四週](https://drive.google.com/file/d/1QL18v79KxqqZFYZKdjo7MXAKFqQ3kfPW/view)
