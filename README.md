@@ -5,7 +5,7 @@
 + [自我介紹](https://github.com/yuancc12/Theory-of-Probability/blob/main/README.md#%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9)
 + [電子教材課本](https://github.com/yuancc12/Theory-of-Probability/blob/main/README.md#%E9%9B%BB%E5%AD%90%E6%95%99%E6%9D%90%E8%AA%B2%E6%9C%AC)
 + [課堂PPT(教师版)](https://github.com/yuancc12/Theory-of-Probability/blob/main/README.md#%E8%AA%B2%E5%A0%82ppt)
-+ [課堂PPT(學生版)]()
++ [課堂PPT(學生版)](https://github.com/yuancc12/Computer-Network-Theorem-and-Implementation/blob/main/README.md#%E8%AA%B2%E5%A0%82ppt%E5%AD%B8%E7%94%9F%E7%89%88)
 # 簡介
 **授課教師:吳姈蓉教授**
 
