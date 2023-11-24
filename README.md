@@ -6,6 +6,7 @@
 + [電子教材課本](https://github.com/yuancc12/Theory-of-Probability/blob/main/README.md#%E9%9B%BB%E5%AD%90%E6%95%99%E6%9D%90%E8%AA%B2%E6%9C%AC)
 + [課堂PPT(教师版)](https://github.com/yuancc12/Theory-of-Probability/blob/main/README.md#%E8%AA%B2%E5%A0%82ppt)
 + [課堂PPT(學生版)](https://github.com/yuancc12/Computer-Network-Theorem-and-Implementation/blob/main/README.md#%E8%AA%B2%E5%A0%82ppt%E5%AD%B8%E7%94%9F%E7%89%88)
++ [專題演講]()
 # 簡介
 **授課教師:吳姈蓉教授**
 
@@ -31,5 +32,7 @@
 + [第二週](https://drive.google.com/file/d/1kyqko8MMrAQKdenwb58AlVT3MO1R2fYI/view)
 + [第三，四，五週](https://drive.google.com/file/d/1EEg-9Hgb7f4tcsMoGC3MsqnlHuc_5ATC/view)
 # 課堂PPT(學生版)
-+[第五週](https://drive.google.com/file/d/1QL18v79KxqqZFYZKdjo7MXAKFqQ3kfPW/view)
-+[第六週](https://drive.google.com/drive/folders/1n6cTLcJ78kt0mkCb_w_M5b6Rqi3KfSzu)
++ [第五週](https://drive.google.com/file/d/1QL18v79KxqqZFYZKdjo7MXAKFqQ3kfPW/view)
++ [第六週](https://drive.google.com/drive/folders/1n6cTLcJ78kt0mkCb_w_M5b6Rqi3KfSzu)
++ [第十週](https://drive.google.com/drive/folders/1n6cTLcJ78kt0mkCb_w_M5b6Rqi3KfSzu)
+# 專題演講
