@@ -36,3 +36,7 @@
 + [第六週](https://drive.google.com/drive/folders/1n6cTLcJ78kt0mkCb_w_M5b6Rqi3KfSzu)
 + [第十週](https://drive.google.com/drive/folders/1n6cTLcJ78kt0mkCb_w_M5b6Rqi3KfSzu)
 # 專題演講
++ [資安治理趨勢與發展機會](https://drive.google.com/file/d/1-NO8ia-dNzvOujbfrrvB-nMIED_FPEJ9/view)
++ []()
+  
+
