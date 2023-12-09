@@ -31,12 +31,13 @@
 + [第一週](https://drive.google.com/file/d/1jJ-yrU1RmrZ0iSyHC-B38zghaWf3C_yr/view)
 + [第二週](https://drive.google.com/file/d/1kyqko8MMrAQKdenwb58AlVT3MO1R2fYI/view)
 + [第三，四，五週](https://drive.google.com/file/d/1EEg-9Hgb7f4tcsMoGC3MsqnlHuc_5ATC/view)
++ [第十三週，十四週](https://drive.google.com/file/d/1w5TzSrcTUtTiuRqq-e975hDxGo_99CMB/view)
 # 課堂PPT(學生版)
 + [第五週](https://drive.google.com/file/d/1QL18v79KxqqZFYZKdjo7MXAKFqQ3kfPW/view)
 + [第六週](https://drive.google.com/drive/folders/1n6cTLcJ78kt0mkCb_w_M5b6Rqi3KfSzu)
 + [第十週](https://drive.google.com/drive/folders/1n6cTLcJ78kt0mkCb_w_M5b6Rqi3KfSzu)
++ [第十三週](https://drive.google.com/drive/folders/1n6cTLcJ78kt0mkCb_w_M5b6Rqi3KfSzu)
 # 專題演講
 + [資安治理趨勢與發展機會](https://drive.google.com/file/d/1-NO8ia-dNzvOujbfrrvB-nMIED_FPEJ9/view)
-+ []()
   
 
