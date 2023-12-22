@@ -32,11 +32,17 @@
 + [第二週](https://drive.google.com/file/d/1kyqko8MMrAQKdenwb58AlVT3MO1R2fYI/view)
 + [第三，四，五週](https://drive.google.com/file/d/1EEg-9Hgb7f4tcsMoGC3MsqnlHuc_5ATC/view)
 + [第十三週，十四週](https://drive.google.com/file/d/1w5TzSrcTUtTiuRqq-e975hDxGo_99CMB/view)
++ [第十五週-1](https://drive.google.com/drive/folders/15oy7-QdlatXUhwvg4OckcfEGkr8wa6Ay)
++ [第十五週-2](https://drive.google.com/drive/folders/15oy7-QdlatXUhwvg4OckcfEGkr8wa6Ay)
 # 課堂PPT(學生版)
 + [第五週](https://drive.google.com/file/d/1QL18v79KxqqZFYZKdjo7MXAKFqQ3kfPW/view)
 + [第六週](https://drive.google.com/drive/folders/1n6cTLcJ78kt0mkCb_w_M5b6Rqi3KfSzu)
 + [第十週](https://drive.google.com/drive/folders/1n6cTLcJ78kt0mkCb_w_M5b6Rqi3KfSzu)
++ [第十一週](https://drive.google.com/file/d/1_PkVGJG54N4JAOHXjaFBsvVyG3LjUAAJ/view?usp=sharing)
++ [第十二週](https://drive.google.com/file/d/1X9is6OCuKAxZM-B-Uvvx248vZjFL0iVL/view?usp=sharing)
 + [第十三週](https://drive.google.com/drive/folders/1n6cTLcJ78kt0mkCb_w_M5b6Rqi3KfSzu)
++ [第十四週](https://docs.google.com/presentation/d/1DSDO9SbDtmcKT6RUicUsV9EJg4R1_OIc/edit?usp=sharing&ouid=110878783878273118683&rtpof=true&sd=true)
++ [第十五週](https://drive.google.com/file/d/19c9PeqgjAb8T7Q8dcu1MuJBBreQz8SKd/view?usp=sharing)
 # 專題演講
 + [資安治理趨勢與發展機會](https://drive.google.com/file/d/1-NO8ia-dNzvOujbfrrvB-nMIED_FPEJ9/view)
   
